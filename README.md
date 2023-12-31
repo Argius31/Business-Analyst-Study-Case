@@ -30,6 +30,7 @@ Relasi ERD
 ![ERD](https://github.com/Argius31/Business-Analyst-Study-Case/assets/122506192/b85ab211-361e-4f55-90da-9cfd9695a4e7)
 
 Screenflow Alur dari ERD:
+
 Registrasi Perusahaan:
 - Pengguna memasukkan data perusahaan ke dalam aplikasi.
 - Aplikasi memvalidasi dan menyimpan data perusahaan.
