@@ -25,14 +25,11 @@ Proses Register
 - Jika berhasil di approve oleh manager logistik maka akan tampil "Telah berhasil terdaftar"
 - Jika user ingin login akan di arahkan kembali ke halaman utama
 
+Relasi ERD
+
 ![ERD](https://github.com/Argius31/Business-Analyst-Study-Case/assets/122506192/b85ab211-361e-4f55-90da-9cfd9695a4e7)
 
-
-Hubungan Antara Entitas:
-
-Registrasi Perusahaan <-> Data Vendor: Hubungan one-to-many, di mana satu perusahaan dapat memiliki banyak data vendor terkait dengan bidang usaha dan jenis perusahaan yang berbeda.
-Data Vendor <-> Status Persetujuan: Hubungan one-to-one, menunjukkan bahwa setiap data vendor memiliki satu status persetujuan yang terkait.
-
+Screenflow Alur dari ERD:
 Registrasi Perusahaan:
 - Pengguna memasukkan data perusahaan ke dalam aplikasi.
 - Aplikasi memvalidasi dan menyimpan data perusahaan.
