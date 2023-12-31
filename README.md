@@ -1,2 +1,2 @@
 # Flowchart-Supply
-Flowchart &amp; ERD Design for Supply Management
+Flowchart for Supply Management
