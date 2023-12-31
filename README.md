@@ -4,7 +4,7 @@ Flowchart for Supply Management
 
 
 
-
+![ERD ](https://github.com/Argius31/Business-Analyst-Study-Case/assets/122506192/cab89477-4d4f-4b90-bc97-04b24c4a7402)
 
 Screenflow Alur dari ERD:
 
